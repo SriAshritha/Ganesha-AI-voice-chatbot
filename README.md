@@ -32,3 +32,6 @@ Audio autoplay may be blocked in some browsers. Click once on the canvas to enab
 GAN.AI TTS returns audio/wav. If switching to ElevenLabs or another TTS, adjust MIME type.
 
 Keep your API keys private — they are only used locally in this app.
+
+Access to the working demo - ganesha ai voice chatbot
+https://drive.google.com/drive/folders/1L2aljlY89A_2BMYsNNAZZG3oLAvQRCFI?usp=sharing
